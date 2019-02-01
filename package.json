@@ -1,0 +1,20 @@
+{
+  "name": "test-parcel-with-react",
+  "version": "1.0.0",
+  "description": "React Project Setup with Parcel",
+  "keywords": ["parcel", "react"],
+  "main": "index.js",
+  "author": "h9h",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel": "^1.11.0"
+  },
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.7.0"
+  }
+}
